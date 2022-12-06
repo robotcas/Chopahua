@@ -36,16 +36,16 @@ body {
     visibility: visible; }
 
 a {
-  color: #1b95d3;
+  color: #0023a4;
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
   transition: .3s all ease; }
   a:hover {
-    color: #1b95d3;
+    color: #0023a4;
     text-decoration: none; }
 
 h1, h2, h3, h4, h5 {
-  color: #1b95d3; }
+  color: #0023a4; }
 
 .text-primary {
   color: #e84545 !important; }
@@ -76,11 +76,11 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     -webkit-box-shadow: none;
     box-shadow: none; }
   .btn.btn-primary {
-    background: #1b95d3;
-    border-color: #1b95d3; }
+    background: #0023a4;
+    border-color: #0023a4; }
     .btn.btn-primary:hover {
-      border-color: #1b95d3;
-      background: #1b95d3; }
+      border-color: #0023a4;
+      background: #0023a4; }
   .btn.btn-white {
     background-color: #ffffff; }
     .btn.btn-white:hover {
@@ -91,19 +91,19 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     border: 1px solid #ffffff; }
     .btn.btn-outline-white:hover {
       background: #ffffff;
-      color: #1b95d3 !important; }
+      color: #0023a4 !important; }
   .btn.btn-outline-black {
     border: 1px solid rgba(0, 0, 0, 0.1); }
     .btn.btn-outline-black:hover {
       background: transparent;
-      color: #1b95d3 !important; }
+      color: #0023a4 !important; }
 
 .form-control, .custom-select {
   border: 2px solid #e9ecef;
   font-size: 16px;
   height: 45px; }
   .form-control:active, .form-control:focus, .custom-select:active, .custom-select:focus {
-    border-color: #1b95d3;
+    border-color: #0023a4;
     -webkit-box-shadow: none;
     box-shadow: none; }
 
@@ -125,7 +125,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
         padding-left: 15px; } }
 
 .spinner-border {
-  color: #1b95d3; }
+  color: #0023a4; }
 
   .img-logo{
     vertical-align: middle;
@@ -1292,7 +1292,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     overflow: hidden; }
     .service-2.link.active .service-icon {
       color: #ffffff;
-      background-color: #1b95d3; }
+      background-color: #0023a4; }
 
 .section-grey {
   padding-top: 60px;
@@ -1668,7 +1668,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   position: relative; }
   .unit-4 .unit-4-icon span {
     font-size: 3rem;
-    color: #1b95d3; }
+    color: #0023a4; }
   .unit-4 .unit-4-icon:before {
     position: absolute;
     content: "";
@@ -1814,12 +1814,12 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
       left: 15px; }
     .custom-accordion .accordion-item .btn-link[aria-expanded="true"] {
       font-weight: 700;
-      color: #1b95d3; }
+      color: #0023a4; }
       .custom-accordion .accordion-item .btn-link[aria-expanded="true"]:before {
         font-family: 'icomoon';
         content: "\f147";
         position: absolute;
-        color: #1b95d3;
+        color: #0023a4;
         top: 50%;
         -webkit-transform: translateY(-50%);
         -ms-transform: translateY(-50%);
@@ -1827,7 +1827,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   .custom-accordion .accordion-item.active {
     z-index: 2; }
     .custom-accordion .accordion-item.active .btn-link {
-      color: #1b95d3;
+      color: #0023a4;
       -webkit-box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.1);
       box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.1); }
   .custom-accordion .accordion-item .accordion-body {
@@ -1996,7 +1996,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
       border-radius: 50%;
       background: rgba(0, 0, 0, 0.2); }
     .owl-single .owl-dots .owl-dot.active span {
-      background: #1b95d3; }
+      background: #0023a4; }
 
 .testimonial {
   max-width: 500px;
@@ -2023,7 +2023,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
     left: 0; }
 
 .list-check.primary li:before {
-  color: #1b95d3; }
+  color: #0023a4; }
 
 .site-footer {
   padding-top: 70px;
@@ -2035,7 +2035,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
   .site-footer a {
     color: #000000; }
     .site-footer a:hover {
-      color: #1b95d3; }
+      color: #0023a4; }
   .site-footer .widget {
     margin-bottom: 30px; }
     .site-footer .widget h3 {
@@ -2060,14 +2060,14 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
           -ms-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%); }
         .site-footer .widget .social li a:hover {
-          color: #1b95d3; }
+          color: #0023a4; }
     .site-footer .widget .links li {
       display: block;
       margin-bottom: 10px; }
       .site-footer .widget .links li a {
         color: #000000; }
         .site-footer .widget .links li a:hover {
-          color: #1b95d3; }
+          color: #0023a4; }
   .site-footer .copyright {
     position: relative;
     padding-top: 40px;
